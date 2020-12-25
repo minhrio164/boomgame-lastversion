@@ -1,0 +1,16 @@
+#pane{
+
+    -fx-background-image:url("/image/backgournd-01.png");
+    -fx-background-repeat: stretch;
+    -fx-background-position: center center;
+}
+#startButton{
+
+    -fx-opacity: 0 ;
+}
+#winpane{
+    -fx-background-image:url("/image/win-01.png");
+    }
+#overpane{
+    -fx-background-image:url("/image/gameover-01.png");
+}
